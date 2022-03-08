@@ -1,6 +1,6 @@
 # GITHUB ACTIVIDAD
 ## Clonar Repositorio
-´´git clone https://github.com/ladriank-education/masteruah´´
+```git clone https://github.com/ladriank-education/masteruah```
 ## Crear/Modificar README.md
 > Marqué la creación del fichero README.md a la hora de crear el repositorio
 ## Primer Commit
@@ -10,3 +10,5 @@
 ``git add fichero``
 > Ahora si puedo ejecutar un commit
 ``git commit -m "Commit Inicial"``
+## Subiendo archivos
+``git push``
