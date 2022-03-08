@@ -7,14 +7,14 @@
 > Como no tengo ningun nuevo cambio en el repositorio primero creare un fichero.
 > Para ello, usare el siguiente comando:
 ```touch fichero```
-!()[.img/1.png]
+![](.img/1.png)
 > Posteriormente lo agregare al 'Staging Area' con el uso del siguiente comando:
 ```git add fichero```
-!()[.img/2.png]
+![](.img/2.png)
 > Ahora si puedo ejecutar un commit mediante el siguiente comando:
 ``git commit -m "Commit Inicial"``
-!()[.img/3.png]
+![](.img/3.png)
 ## Subiendo archivos
 > Para subir los archivos al repositorio he usado el siguiente comando:
 ``git push``
-!()[.img/4.png]
+![](.img/4.png)
