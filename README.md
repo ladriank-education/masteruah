@@ -55,16 +55,8 @@
 ![imagen](.img/6.png)
 
 ## Subir etiqueta 'v0.1'
-> Para subir la etiqueta tan solo debemos ejecutar un add, un commit y un push
+> Para subir la etiqueta tan solo debemos ejecutar el siguiente comando, aunque no es recomendado
 
-``git add *``
+``git push --tags``
 
 ![imagen](.img/7.png)
-
-``git commit -m "Archivos con Etiqueta 'v0.1'"``
-
-![imagen](.img/8.png)
-
-``git push``
-
-![imagen](.img/9.png)
