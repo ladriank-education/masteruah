@@ -60,3 +60,8 @@
 ``git push --tags``
 
 ![imagen](.img/7.png)
+
+## Subir los cambios
+> Usamos el comando
+
+``git push``
