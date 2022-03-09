@@ -4,7 +4,7 @@
 ``git clone https://github.com/ladriank-education/masteruah``   
 
 ## Crear/Modificar README.md
-> Marqué la creación del fichero README.md a la hora de crear el repositorio
+> Marqué la creación automatica del fichero **README.md** a la hora de crear el repositorio
 
 ## Primer Commit
 > Como no tengo ningun nuevo cambio en el repositorio primero creare un fichero.
@@ -38,3 +38,29 @@
 
 
 ![imagen](.img/4.png)
+
+## Crear fichero '1.txt' en el repositorio local
+> Para crear un fichero volvemos a usar el comando:
+
+``touch 1.txt``
+
+![imagen](.img/5.png)
+
+## Crear etiqueta 'v0.1'
+> Creamos la etiqueta con el nombre **'v0.1'**
+> Esto hace que los ficheros que vayamos a incluir en el commit tengan la etiqueta designada
+
+``git tag "v0.1"``
+
+![imagen](.img/6.png)
+
+## Subir etiqueta 'v0.1'
+> Para subir la etiqueta tan solo debemos ejecutar un commit y un push
+
+``git commit -m "Archivos con Etiqueta 'v0.1'"``
+
+![imagen](.img/7.png)
+
+``git push``
+
+![imagen](.img/8.png)
