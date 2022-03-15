@@ -61,7 +61,25 @@
 
 ![imagen](.img/7.png)
 
-## Subir los cambios
-> Usamos el comando
+## Crear rama 'v0.2'
+> Usamos el comando sentenciado a continuacion para crear una rama.
 
-``git push``
+``git branch 'v0.2'``
+
+
+![imagen](.img/8.png)
+
+## Crear fichero '1.txt' en la rama 'v0.2'
+
+> Para crear un archivo en otra rama primero debemos movernos a la rama en cuestion.
+
+``git checkout 'v0.2'``
+
+
+![imagen](.img/9.png)
+
+> Ya que estamos en la rama, nos disponemos a crear el archivo
+
+
+![imagen](.img/10.png)
+
